@@ -1,0 +1,8 @@
+Theory question
+
+Registers are used to store data for faster access and we declare using "register" keyword.
+
+Its initial value is garbage.
+It is having Local scope.
+These variables will be stored in register memory.
+Life time is with in the block or function in which these variables are declared.
