@@ -1,0 +1,5 @@
+//File to be printed.
+This is the middle part after removing single line comment.
+/* Test lines to remove 
+multiline comments. */
+Removed multiline comments also.
